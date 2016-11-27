@@ -15,5 +15,5 @@ int main() {
         sum += a[i];
     }
     cout << "osszeg = " << sum;
-	return 0;
+    return 0;
 }
