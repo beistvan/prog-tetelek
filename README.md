@@ -1,1 +1,1 @@
-"# prog-tetelek" 
+### Programozási tételek
