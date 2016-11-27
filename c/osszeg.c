@@ -6,7 +6,7 @@ int i, sum=0;
 
 int main(void) {
 	
-	for ( i=0 ; i<10 ; i++ )
+  for ( i=0 ; i<10 ; i++ )
   {
     a[i] = rand() % 10 + 1;
     printf("a[%d]= %d\n", i, a[i]);
@@ -14,5 +14,5 @@ int main(void) {
   }
   printf("osszeg = %d", sum);
     
-	return 0;
+  return 0;
 }
