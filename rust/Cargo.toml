@@ -1,0 +1,11 @@
+[package]
+name = "osszegzes"
+version = "0.0.1"
+authors = ["beistvan <beistvan@example.com>"]
+
+[dependencies]
+rand = "*"
+
+[[bin]]
+name = "main"
+path = "main.rs"
