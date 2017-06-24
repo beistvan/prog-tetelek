@@ -1,3 +1,4 @@
+#python 3
 from functools import reduce
 lista = [1, 4, 6, 2]
 print("Lista:")
